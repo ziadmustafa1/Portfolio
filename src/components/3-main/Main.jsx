@@ -95,7 +95,7 @@ const Main = () => {
                       <div className="icon-link"></div>
                       <div className="icon-github"></div>
                     </div>
-                    <a className="link flex" href={item.link}>
+                    <a className="link flex" href={item.link} target="_blank" rel="noopener noreferrer">
                       more
                       <span
                         style={{ alignSelf: "end" }}
