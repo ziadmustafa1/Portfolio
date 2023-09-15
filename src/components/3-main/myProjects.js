@@ -1,9 +1,9 @@
 export const myProjects = [
   {
-    projectTitle: "amazon-clone",
+    projectTitle: "shujasa",
     category: ["react"],
-    imgPath: "./images/1.png",
-    link:"https://amazon-clone-ziad.netlify.app",
+    imgPath: "./images/4.png",
+    link:"https://shujasa.vercel.app/",
   },
   {
     projectTitle: "ECommerce-shop",
@@ -16,5 +16,11 @@ export const myProjects = [
     category: ["react"],
     imgPath: "./images/3.png",
     link:"https://ecommerce-front-end-seven.vercel.app",
+  },
+  {
+    projectTitle: "amazon-clone",
+    category: ["react"],
+    imgPath: "./images/1.png",
+    link:"https://amazon-clone-ziad.netlify.app",
   },
   ];
