@@ -32,7 +32,7 @@ const Hero = () => {
         </motion.h1>
 
         <p className="sub-title">
-          I’m Ziad Mostafa, a 
+          I’m Ziad Mostafa, a
 Web Developer
 
 Expert in HTML, CSS, JavaScript, React.js, and Bootstrap.
@@ -52,8 +52,9 @@ Responsive website design and development
         </p>
 
         <div className="all-icons flex">
-          <a href="https://github.com/ziadmustafa1"><div className="icon icon-github"></div></a> 
+          <a href="https://github.com/ziadmustafa1"><div className="icon icon-github"></div></a>
           <a href="https://www.linkedin.com/in/ziad-mostafa-2a4315179"><div className="icon icon-linkedin"></div></a>
+          <a href="https://wa.link/njzv63"><div className="icon"> <i className="fa-brands fa-square-whatsapp"></i> </div></a>
         </div>
       </div>
 
